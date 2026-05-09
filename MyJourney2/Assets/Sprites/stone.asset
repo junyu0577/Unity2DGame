@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: stone
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -1258221099, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: 1810519601, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: 121651656, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: -1428859102, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: -940168203, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: 854821880, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: 358156972, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  - {fileID: 1113724699, guid: 4f7c69a8325a54cedbc7775d1d8505c1, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

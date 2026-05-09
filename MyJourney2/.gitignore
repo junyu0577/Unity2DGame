@@ -1,0 +1,70 @@
+# Unity .gitignore
+# 由Unity官方推荐，社区维护
+
+/[Aa]ssets/AssetStoreTools*
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# 自动生成文件
+*.pidb.meta
+*.pdb.meta
+*.mdb
+*.opendb
+
+# Unity3D生成文件
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Mac
+.DS_Store*
+._.DS_Store
+*.doc.idsync
+Icon?
+__MACOSX/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# 视觉资产缓存
+[Gg]lobal[Ll]ibrary
+[Ll]ocal[Cc]ache
+
+# 插件
+[Pp]lugins/[Aa]ndroid/[Aa]ndroidManifest.xml
+[Pp]lugins/[Aa]ndroid/[Aa]ndroidManifest.xml.meta
+
+# 自动生成Android
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# 自动生成iOS
+/*.ipa
+/*.sign
+/Payload/
+
+# 崩溃日志
+crashlytics-build.properties
